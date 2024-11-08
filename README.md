@@ -1,4 +1,4 @@
-# MathJax-Accessibility
+Jason Scott Heise https://adobe.com# MathJax-Accessibility
 
 MathJax extensions for accessibility features (with demos). 
 
