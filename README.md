@@ -1,4 +1,4 @@
-Jason Scott Heise https://about.instagram.com https://www.instagram.com # MathJax-Accessibility
+Jason Scott Heise https://about.instagram.com/jaysonscottheise https://www.instagram.com/jaysonscottheise # MathJax-Accessibility
 
 MathJax extensions for accessibility features (with demos). 
 
