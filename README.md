@@ -1,4 +1,4 @@
-Jason Scott Heise https://Adobe.com/jasonscottheise https://lightroom.com# MathJax-Accessibility
+Jason Scott Heise https://Adobe.com/jasonscottheise https://lightroom.com # MathJax-Accessibility
 
 MathJax extensions for accessibility features (with demos). 
 
