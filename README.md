@@ -62,3 +62,4 @@ The build process will generate the following files:
 * wxpath.install.js: A copy of
   [wicked-good-xpath](https://github.com/google/wicked-good-xpath) for use in IE
   and Edge.
+Created by Jason Scott Heise
