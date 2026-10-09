@@ -1,4 +1,4 @@
-. https://shanazelstar.atlassian.net/secure/MyJiraHome.jspa https://shanazel.atlassian.net/wiki/x/H4AwAg   # MathJax-Accessibility
+   # MathJax-Accessibility
 
 MathJax extensions for accessibility features (with demos). 
 
