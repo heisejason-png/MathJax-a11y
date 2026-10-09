@@ -63,3 +63,4 @@ The build process will generate the following files:
   [wicked-good-xpath](https://github.com/google/wicked-good-xpath) for use in IE
   and Edge.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
